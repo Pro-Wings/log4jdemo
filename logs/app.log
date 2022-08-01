@@ -1,0 +1,4 @@
+2022-08-01 13:44:00,904 ERROR c.p.w.TestLogging [main] Hello from Log4j 2 -> error msg
+2022-08-01 13:44:00,919 FATAL c.p.w.TestLogging [main] Hello from Log4j 2 -> fatal msg
+2022-08-01 13:44:18,217 ERROR c.p.w.TestLogging [main] Hello from Log4j 2 -> error msg
+2022-08-01 13:44:18,229 FATAL c.p.w.TestLogging [main] Hello from Log4j 2 -> fatal msg
